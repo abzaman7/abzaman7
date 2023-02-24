@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://withkoji.com/@abzaman7](https://withkoji.com/@abzaman7)
 
-- 📝 I write share thoughts and insights on [https://www.linkedin.com/in/abzaman/](https://www.linkedin.com/in/abzaman/)
+- 📝 I write & share thoughts and insights on [https://www.linkedin.com/in/abzaman/](https://www.linkedin.com/in/abzaman/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abzaman/](https://www.linkedin.com/in/abzaman/)
 
