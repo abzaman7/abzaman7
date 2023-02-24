@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **SQA and Design projects**
 
-- 💬 Book ca call with me [https://calendly.com/abzaman7/30min](https://calendly.com/abzaman7/30min)
+- 💬 Book a call with me [https://calendly.com/abzaman7/30min](https://calendly.com/abzaman7/30min)
 
 - 👨‍💻 All of my projects are available at [https://withkoji.com/@abzaman7](https://withkoji.com/@abzaman7)
 
