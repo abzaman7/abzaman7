@@ -9,7 +9,7 @@
 
 - 💬 Book a call with me [https://calendly.com/abzaman7/30min](https://calendly.com/abzaman7/30min)
 
-- 👨‍💻 All of my projects are available at [https://abzaman77.carrd.co/](https://abzaman77.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://abzaman7.carrd.co/](https://abzaman7.carrd.co/)
 
 - 📝 I share thoughts and insights on [https://www.linkedin.com/in/abzaman/](https://www.linkedin.com/in/abzaman/)
 
