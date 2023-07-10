@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm A.B.Zaman</h1>
-<h3 align="center">An SQA engineer and Brand Identity designer</h3>
+<h3 align="center">An SQA engineer and Visual Identity designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abzaman7&label=Profile%20views&color=0e75b6&style=flat" alt="abzaman7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abzaman7" alt="abzaman7" /></a> </p>
-
-- 👯 I’m looking to collaborate on **SQA and Visual Identity projects**
+- 👯 I’m looking to collaborate on **SQA and Visual Identity Projects**
 
 - 💬 Book a call with me [https://calendly.com/abzaman7/30min](https://calendly.com/abzaman7/30min)
 
