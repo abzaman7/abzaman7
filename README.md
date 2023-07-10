@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my links are available at [https://abzaman7.carrd.co/](https://abzaman7.carrd.co/)
 
-- 📝 I share thoughts and insights on [https://www.linkedin.com/in/abzaman/](https://www.linkedin.com/in/abzaman/)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/abzaman/](https://www.linkedin.com/in/abzaman/)
+- 📝 Find my thoughts, insights & experiences on [https://www.linkedin.com/in/abzaman/](https://www.linkedin.com/in/abzaman/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
