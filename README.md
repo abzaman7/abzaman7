@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abzaman7" alt="abzaman7" /></a> </p>
 
-- 👯 I’m looking to collaborate on **SQA and Design projects**
+- 👯 I’m looking to collaborate on **SQA and Visual Identity projects**
 
 - 💬 Book a call with me [https://calendly.com/abzaman7/30min](https://calendly.com/abzaman7/30min)
 
