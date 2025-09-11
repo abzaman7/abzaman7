@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm A.B.Zaman</h1>
 <h3 align="center">An SQA engineer and Visual Identity designer</h3>
 
-- 👯 I’m looking to collaborate on **SQA and Visual Identity Projects**
+- 👯 I’m looking to collaborate on **SQA Projects**
 
 - 💬 Book a call with me [https://calendly.com/abzaman7/30min](https://calendly.com/abzaman7/30min)
 
