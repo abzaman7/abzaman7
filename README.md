@@ -19,7 +19,48 @@
 👨‍💻 All of my links are available at <a href="https://linktr.ee/abzaman"><strong>Linktree</strong></a>
 📝 Find my thoughts, insights & experiences on <a href="https://www.linkedin.com/in/abzaman/"><strong>LinkedIn</strong></a>
 </pre>
+<hr><br>
+
+## 🎯 Core Competencies
+<!-- This line is hidden -->
 <hr>
+
+<pre>
+✔ Manual Testing
+✔ Test Automation
+✔ API Testing
+✔ Performance Testing
+✔ Cross Browser Testing
+✔ Web Testing
+✔ Test Planning & Strategy
+✔ Requirement Analysis
+✔ Defect Management
+✔ Regression Testing
+✔ Exploratory Testing
+✔ Agile / Scrum
+✔ Page Object Model (POM)
+✔ TestNG
+✔ WebdriverIO Framework
+✔ Selenium Framework
+✔ Playwright Framework
+✔ Cypress Framework
+	</pre>
+<hr><br>
+
+## 🧪 Testing Expertise
+
+| Category | Skills |
+|----------|--------|
+| ✅ Functional Testing | Smoke Testing • Sanity Testing • Regression Testing • Retesting • Exploratory Testing • UI Testing • End-to-End Testing |
+| 🔄 Integration Testing | Integration Testing • System Integration Testing (SIT) • API Integration Testing |
+| 🌐 API Testing | REST API Testing • Postman • API Validation • Contract Testing |
+| 🤖 Automation Testing | Selenium • Playwright • Cypress • WebdriverIO • Page Object Model (POM) |
+| ⚡ Performance Testing | Apache JMeter • Load Testing • Stress Testing • Spike Testing • Endurance Testing |
+| 📱 Cross Platform Testing | Cross Browser Testing • Responsive Testing • Cross Device Testing |
+| 🛡️ Quality Assurance | Test Planning • Test Strategy • Test Case Design • Test Execution • Defect Reporting • Requirement Analysis • Traceability Matrix |
+| 📋 SDLC & STLC | Agile • Scrum • SDLC • STLC • Bug Life Cycle |
+
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
 
