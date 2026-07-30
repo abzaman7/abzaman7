@@ -1,6 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abdullah</h1>
 <h3 align="center">SQA Engineer | Tech Enthusiast | Logo and Vislual Identity Designer</h3>
-
+<p align="center">
+	<a href="https://github.com/abzaman7">
+		<img src="https://komarev.com/ghpvc/?username=abzaman7&label=Profile%20views&color=0e75b6&style=flat" alt="abzaman7" />
+	</a>
+	
+  <a href="https://github.com/abzaman7">
+		<img src="https://img.shields.io/github/followers/abzaman7?label=Followers" alt="abzaman7" />
+	</a>
+</p>
 - 👯 I’m currently looking to collaborate on **SQA Projects**
 
 - 💬 Book a call with me **[Calendly](https://calendly.com/abzaman7/30min)**
