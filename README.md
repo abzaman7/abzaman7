@@ -94,12 +94,12 @@
 ### 💻 Development Tools
 
 <p>
-  <a href="https://github.com/abzaman7"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white"></a>
+  <a href="https://github.com/abzaman7"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-181717?logo=intellijidea&logoColor=white"></a>
   <a href="https://github.com/abzaman7"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white"></a>
   <a href="https://github.com/abzaman7"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
   <a href="https://github.com/abzaman7"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
 </p>
-
 <br>
 
+## ⚡Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abzaman7&theme=tokyonight" alt="abzaman7" /></p>
