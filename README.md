@@ -3,9 +3,9 @@
 
 - 👯 I’m looking to collaborate on **SQA Projects**
 
-- 💬 Book a call with me [https://calendly.com/abzaman7/30min](https://calendly.com/abzaman7/30min)
+- 💬 Book a call with me [Calendly](https://calendly.com/abzaman7/30min)
 
-- 👨‍💻 All of my links are available at [[https://abzaman7.carrd.co/](https://linktr.ee/abzaman)
+- 👨‍💻 All of my links are available at [Linktree](https://linktr.ee/abzaman)
 
 - 📝 Find my thoughts, insights & experiences on [https://www.linkedin.com/in/abzaman/](https://www.linkedin.com/in/abzaman/)
 
