@@ -60,17 +60,41 @@
 | 🛡️ Quality Assurance | Test Planning • Test Strategy • Test Case Design • Test Execution • Defect Reporting • Requirement Analysis • Traceability Matrix |
 | 📋 SDLC & STLC | Agile • Scrum • SDLC • STLC • Bug Life Cycle |
 
+<br>
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/abzaman7"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"></a>
-    <a href="https://github.com/abzaman7"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"></a>
-    <a href="https://github.com/abzaman7"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"></a>
-    <a href="https://github.com/abzaman7"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/abzaman7"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/abzaman7"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
+  <a href="https://github.com/abzaman7"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"></a>
+  <a href="https://github.com/abzaman7"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"></a>
+  <a href="https://github.com/abzaman7"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"></a>
+  <a href="https://github.com/abzaman7"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/abzaman7"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
+  <a href="https://github.com/abzaman7"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
+</p>
+
+### 🤖 Test Automation
+
+<p>
+  <a href="https://github.com/abzaman7"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"></a>
+  <a href="https://github.com/abzaman7"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white"></a>
+  <a href="https://github.com/abzaman7"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"></a>
+  <a href="https://github.com/abzaman7"><img alt="WebdriverIO" src="https://img.shields.io/badge/WebdriverIO-EA5906?logo=webdriverio&logoColor=white"></a>
+</p>
+
+### 🌐 API Testing
+
+<p>
+  <a href="https://github.com/abzaman7"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+  <a href="https://github.com/abzaman7"><img alt="Apache JMeter" src="https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white"></a>
+</p>
+
+### 💻 Development Tools
+
+<p>
+  <a href="https://github.com/abzaman7"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white"></a>
+  <a href="https://github.com/abzaman7"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white"></a>
 </p>
 
 
