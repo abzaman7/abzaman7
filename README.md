@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my links are available at **[Linktree](https://linktr.ee/abzaman)**
 
-- 📝 Find my thoughts, insights & experiences on [Linkedin](https://www.linkedin.com/in/abzaman/)
+- 📝 Find my thoughts, insights & experiences on **[Linkedin](https://www.linkedin.com/in/abzaman/)**
 
 
 <h3 align="left">Tech Stack</h3>
