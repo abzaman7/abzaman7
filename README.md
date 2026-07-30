@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abdullah</h1>
-<h3 align="center">SQA Engineer x Logo and Vislual Identity Designer | Tech Enthusiast | </h3>
+<h3 align="center">SQA Engineer | Logo and Vislual Identity Designer | Tech Enthusiast | </h3>
 
 <p align="center">
 	<a href="https://github.com/abzaman7">
