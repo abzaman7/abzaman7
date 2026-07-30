@@ -20,7 +20,7 @@
 <br>
 
 ## 🎯 Core Competencies
-<!-- This line is hidden -->
+<!-- This line is hidden for my reference 😂😂 -->
 <pre>
 ✔ Manual Testing
 ✔ Test Automation
