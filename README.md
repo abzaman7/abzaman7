@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm A.B.Zaman</h1>
 <h3 align="center">An SQA engineer and Visual Identity designer</h3>
 
 - 👯 I’m looking to collaborate on **SQA Projects**
