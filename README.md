@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abdullah</h1>
 <h3 align="center">SQA Engineer | Tech Enthusiast | Logo and Vislual Identity Designer</h3>
 
-- 👯 I’m looking to collaborate on **SQA Projects**
+- 👯 I’m currently looking to collaborate on **SQA Projects**
 
 - 💬 Book a call with me [Calendly](https://calendly.com/abzaman7/30min)
 
