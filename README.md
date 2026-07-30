@@ -44,7 +44,7 @@
 ✔ Selenium Framework
 ✔ Playwright Framework
 ✔ Cypress Framework
-	</pre>
+</pre>
 <hr><br>
 
 ## 🧪 Testing Expertise
