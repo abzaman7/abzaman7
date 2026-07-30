@@ -76,7 +76,7 @@
 <p>
   <a href="https://github.com/abzaman7"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"></a>
   <a href="https://github.com/abzaman7"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white"></a>
-  <a href="https://github.com/abzaman7"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"></a>
+  <!--<a href="https://github.com/abzaman7"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"></a> -->
   <a href="https://github.com/abzaman7"><img alt="WebdriverIO" src="https://img.shields.io/badge/WebdriverIO-EA5906?logo=webdriverio&logoColor=white"></a>
 </p>
 
