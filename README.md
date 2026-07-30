@@ -1,5 +1,3 @@
-<h3 align="center">An SQA engineer and Visual Identity designer</h3>
-
 - 👯 I’m looking to collaborate on **SQA Projects**
 
 - 💬 Book a call with me [Calendly](https://calendly.com/abzaman7/30min)
