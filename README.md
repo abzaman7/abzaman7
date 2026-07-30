@@ -10,8 +10,6 @@
 	</a>
 </p>
 
-<hr>
-
 <pre>
 💻 I am a self-taught SQA Engineer expert in manual and automation testing
 👯 I'm currently looking to collaborate on <strong>SQA Projects</strong>
@@ -19,12 +17,10 @@
 👨‍💻 All of my links are available at <a href="https://linktr.ee/abzaman"><strong>Linktree</strong></a>
 📝 Find my thoughts, insights & experiences on <a href="https://www.linkedin.com/in/abzaman/"><strong>LinkedIn</strong></a>
 </pre>
-<hr><br>
+<br>
 
 ## 🎯 Core Competencies
 <!-- This line is hidden -->
-<hr>
-
 <pre>
 ✔ Manual Testing
 ✔ Test Automation
@@ -45,7 +41,7 @@
 ✔ Playwright Framework
 ✔ Cypress Framework
 </pre>
-<hr><br>
+<br>
 
 ## 🧪 Testing Expertise
 
