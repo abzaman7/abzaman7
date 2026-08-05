@@ -10,7 +10,7 @@
 	</a>
 </p>
 
-<pre>
+
 💻 I am a self-taught SQA Engineer expert in manual and automation testing
 
 👯 I'm currently looking to collaborate on <strong>SQA Projects</strong>
