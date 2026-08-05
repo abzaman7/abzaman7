@@ -7,13 +7,14 @@
 	<a href="https://github.com/abzaman7"><img width="125" src="https://img.shields.io/github/followers/abzaman7?label=Followers" alt="abzaman7"/>
 	</p>
 
-<pre><h3>
+<pre>
  💻 I am a self-taught SQA Engineer expert in manual and automation testing 
  👯 I'm currently looking to collaborate on <strong>SQA Projects</strong> 
  💬 Book a call with me <a href="https://calendly.com/abzaman7/30min"><strong>Calendly</strong></a> 
  👨‍💻 All of my links are available at <a href="https://linktr.ee/abzaman"><strong>Linktree</strong></a> 
  📝 Find my thoughts, insights & experiences on <a href="https://www.linkedin.com/in/abzaman/"><strong>LinkedIn</strong></a>
- 🎨 Check out my design portfolio on <a href="https://dribbble.com/cgdedigns/"><strong>Dribbble</strong></a> </h3> </pre>
+ 🎨 Check out my design portfolio on <a href="https://dribbble.com/cgdedigns/"><strong>Dribbble</strong></a>
+</pre>
 <br>
 
 ## 🎯 Core Competencies
