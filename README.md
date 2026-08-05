@@ -11,7 +11,7 @@
 </p>
 
 <pre>
-<h4> 💻 I am a self-taught SQA Engineer expert in manual and automation testing </h4>
+<h3> 💻 I am a self-taught SQA Engineer expert in manual and automation testing </h3>
 
 👯 I'm currently looking to collaborate on <strong>SQA Projects</strong>
 
