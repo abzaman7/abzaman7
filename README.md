@@ -3,8 +3,8 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/abzaman/"><img alt="LinkedIn" width="70" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-	<a href="https://github.com/abzaman7"><img width="130" src="https://komarev.com/ghpvc/?username=abzaman7&label=Profile%20views&color=0e75b6&style=flat" alt="abzaman7"/>
-	<a href="https://github.com/abzaman7"><img width="115" src="https://img.shields.io/github/followers/abzaman7?label=Followers" alt="abzaman7"/>
+	<a href="https://github.com/abzaman7"><img width="135" src="https://komarev.com/ghpvc/?username=abzaman7&label=Profile%20views&color=0e75b6&style=flat" alt="abzaman7"/>
+	<a href="https://github.com/abzaman7"><img width="120" src="https://img.shields.io/github/followers/abzaman7?label=Followers" alt="abzaman7"/>
 	</p>
 
 <pre><h3>
