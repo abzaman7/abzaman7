@@ -2,9 +2,9 @@
 <h3 align="center">SQA Engineer | Logo and Vislual Identity Designer | Tech Enthusiast  </h3>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/abzaman/"><img alt="LinkedIn" width="70" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-	<a href="https://github.com/abzaman7"><img width="135" src="https://komarev.com/ghpvc/?username=abzaman7&label=Profile%20views&color=0e75b6&style=flat" alt="abzaman7"/>
-	<a href="https://github.com/abzaman7"><img width="125" src="https://img.shields.io/github/followers/abzaman7?label=Followers" alt="abzaman7"/>
+	<a href="https://www.linkedin.com/in/abzaman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+	<a href="https://github.com/abzaman7"><img src="https://komarev.com/ghpvc/?username=abzaman7&label=Profile%20views&color=0e75b6&style=flat" alt="abzaman7"/>
+	<a href="https://github.com/abzaman7"><img src="https://img.shields.io/github/followers/abzaman7?label=Followers" alt="abzaman7"/>
 	</p>
 
 <pre>
