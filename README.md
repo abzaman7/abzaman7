@@ -44,7 +44,7 @@
 </pre>
 <br>
 
-## 🧪 Testing Expertise
+<!-- ## 🧪 Testing Expertise
 
 | Category | Skills |
 |----------|--------|
@@ -57,7 +57,7 @@
 | 🛡️ Quality Assurance | Test Planning • Test Strategy • Test Case Design • Test Execution • Defect Reporting • Requirement Analysis • Traceability Matrix |
 | 📋 SDLC & STLC | Agile • Scrum • SDLC • STLC • Bug Life Cycle |
 
-<br>
+<br>  -->
 
 ## 🛠️ Tech Stack
 
