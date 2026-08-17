@@ -106,5 +106,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abzaman7&theme=tokyonight" alt="abzaman7" /></p>-->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abzaman7&theme=react-dark&hide_border=true" alt="Abdullah's GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abzaman7&theme=react-dark&hide_border=true&custom_title=Abdullah%27s%20GitHub%20Activity" alt="Abdullah's GitHub Activity Graph">
 </p>
