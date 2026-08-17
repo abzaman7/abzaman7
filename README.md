@@ -103,5 +103,8 @@
 <br>
 
 ## ⚡Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abzaman7&theme=tokyonight" alt="abzaman7" /></p>
-[Abdullah's github activity](https://github-readme-activity-graph.vercel.app/graph?username=abzaman7&theme=dracula)](https://github.com/abzaman7/github-readme-activity-graph)
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abzaman7&theme=tokyonight" alt="abzaman7" /></p>-->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abzaman7&theme=react-dark&hide_border=true" alt="Abdullah's GitHub Activity Graph">
+</p>
